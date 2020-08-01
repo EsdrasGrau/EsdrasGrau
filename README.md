@@ -1,8 +1,5 @@
 ### Hi there 👋, my name is Esdras
-### Data & BI Analyst 
-<img src="https://carleton.ca/datapower/wp-content/uploads/BannereDark.png" alt="Data &amp; BI Analyst " style="zoom:50%;" />
-
-Data Analyst with a business background, I aim to give specialized business advice in data-centred projects that have a positive and reliable impact. I am passionate about bringing different cultures together and solving problems. I have been working in Japan for the last 15 years developing business in education, food, hospitality & coworking fields. Looking for a position as Data Analyst where I can help in data-driven projects, develop my skills and keep learning. Let's work together in solutions that will improve decision-making and boost results.
+Data & BI Analyst with a business background, I aim to give specialized business advice in data-centred projects that have a positive and reliable impact. I am passionate about bringing different cultures together and solving problems. I have been working in Japan for the last 15 years developing business in education, food, hospitality & coworking fields. Looking for a position as Data Analyst where I can help in data-driven projects, develop my skills and keep learning. Let's work together in solutions that will improve decision-making and boost results.
 
 Skills: MBA | Data Analyst | Python | SQL | Mongo DB | FB Prophet | Data Studio | Tableau | Japanese Business Consultant
 
