@@ -7,11 +7,13 @@ Skills: MBA | Data Analyst | Python | SQL | Mongo DB | FB Prophet | Data Studio 
 
 - 👯 I’m looking to collaborate on Data centered projects 
 
-- 🤔 I’m looking for help with Data Visualization 
+- 🤔 I’m looking for help with advance SQL 
 
 - 💬 Ask me about Data, Business & Japan 
 
 - ⚡ Fun fact: I expend my time between Japan🇯🇵  & Mexico🇲🇽 
+
+- 🔝10% (4kyu) in CodeWars 
 
   
 
