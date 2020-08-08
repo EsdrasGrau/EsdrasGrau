@@ -13,7 +13,7 @@ Skills: MBA | Data Analyst | Python | SQL | Mongo DB | FB Prophet | Data Studio 
 
 - ⚡ Fun fact: I expend my time between Japan🇯🇵  & Mexico🇲🇽 
 
-- 🔝10% (4kyu) in CodeWars 
+- 🔝10% CodeWars (4kyu)  
 
   
 
